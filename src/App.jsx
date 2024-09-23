@@ -11,7 +11,7 @@ import './App.css';
 
 const App = () => {
     return (
-        <HashRouter>
+        
         <div className="App">
             <Header />
             <Hero />
@@ -23,7 +23,7 @@ const App = () => {
             <ContactUs />
             <Footer />
         </div>
-            </HashRouter>
+            
     );
 };
 
