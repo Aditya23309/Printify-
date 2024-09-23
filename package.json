@@ -1,7 +1,7 @@
 {
   "name": "printify",
+  "homepage": "https://github.com/Aditya23309/Printify-.git",
   "private": true,
-  "homepage": "https://github.com/Aditya23309/Printify-Clone.git",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
