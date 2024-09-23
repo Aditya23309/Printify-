@@ -23,7 +23,7 @@ const App = () => {
             <ContactUs />
             <Footer />
         </div>
-        </HashRouter>
+            </HashRouter>
     );
 };
 
